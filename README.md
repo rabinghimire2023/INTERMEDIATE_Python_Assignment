@@ -1,4 +1,4 @@
-**#Python Assignments**
+## Python assignments
 
 This repository contains Python assignments covering various topics. Each topic has multiple questions with specific criteria to be fulfilled. Below is a brief introduction to each topic covered in this repository:
 
