@@ -42,7 +42,7 @@ class Department(University):
         for course in self._courses_offered:
             print(f"  - {course}")
 
-# Example usage
+
 if __name__ == "__main__":
     # Creating a University object
     university = University("Tribhuvan University", "Kathmandu")
